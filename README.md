@@ -14,5 +14,4 @@ incorrect tyres sent negative      garage service positive       wait time negat
 The main difference between these subthemes is that Garage Service and Wait Time are aspects of the service that can be positive or negative while
 Incorrect Tyres Sent denotes a problem, something inherently negative.
 
-Task
 The task is to develop an approach that given a sample will identify the subthemes along with their respective sentiments.
